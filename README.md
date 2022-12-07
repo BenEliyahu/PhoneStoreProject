@@ -1,5 +1,6 @@
 # PhoneStore
 Welcome to the best phone store in Town!
+
 I created using ASP.NET Core, Entity Framework and Bootstrap
 
 ## What can you do?
