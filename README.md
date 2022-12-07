@@ -4,7 +4,7 @@ Welcome to the best phone store in Town!
 I created using ASP.NET Core, Entity Framework and Bootstrap
 
 ## What can you do?
-1. You can check our most popular pets
+1. You can check our most popular phones
 2. You can see more details about the phone and add comments about your favorite phone
 3. You can navigate using the navbar
 4. You can filter by device type
