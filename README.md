@@ -17,6 +17,7 @@ I created using ASP.NET Core, Entity Framework and Bootstrap
 1. Edit a phone
 2. Delete a phone
 3. Add a new phone
+4. Delete a comment
 
 ![2022-12-07 (5)](https://user-images.githubusercontent.com/108268890/206175765-3dba5a27-297d-4395-b0ee-de7e1be723bb.png)
 ![2022-12-07 (6)](https://user-images.githubusercontent.com/108268890/206175778-2f47ebeb-e6b7-423b-9dee-a30a5c38d505.png)
