@@ -13,7 +13,7 @@ I created using ASP.NET Core, Entity Framework and Bootstrap
 ![2022-12-07 (3)](https://user-images.githubusercontent.com/108268890/206175689-4b2b0d96-6a94-4dc0-9149-4425ee089877.png)
 ![2022-12-07 (4)](https://user-images.githubusercontent.com/108268890/206175703-c4f31a21-aff4-4700-b9c4-e73cf25e90d2.png)
 
-##Manager access: 🔑
+## Manager access: 🔑
 1. Edit a phone
 2. Delete a phone
 3. Add a new phone
